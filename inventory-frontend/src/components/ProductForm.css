@@ -1,0 +1,24 @@
+/* ProductForm.css */
+body, html, #root {
+    height: 100%;
+    margin: 0;
+}
+
+.form-background {
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1600379671885-7b1a0c9a8722?auto=format&fit=crop&w=1950&q=80');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-form-container {
+    background-color: rgba(255, 255, 255, 0.94);
+    padding: 2rem 2.5rem;
+    border-radius: 1.5rem;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 8px 20px rgba(26, 23, 23, 0.25);
+}
