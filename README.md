@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 | Tecnología       | Descripción                          |
 |------------------|--------------------------------------|
@@ -58,7 +58,7 @@ InventoryProject/
 
 ```bash
 cd inventory-backend
-mvn spring-boot:run
+.\mvnw spring-boot:run
 ```
 
 ### 2. Frontend (React)
