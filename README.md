@@ -55,10 +55,11 @@ InventoryProject/
 ---
 
 ### 1. Backend (Spring Boot)
+Depende que tipo de maven se tenga instalado
 
 ```bash
 cd inventory-backend
-.\mvnw spring-boot:run
+.\mvnw spring-boot:run o mvn spring-boot:run 
 ```
 
 ### 2. Frontend (React)
